@@ -1,13 +1,6 @@
 node_modules/
-node_modules/
+.DS_Store
 bower_components/
-
 build/
 tmp/
 .env
-
-*~
-*swo
-*swp
-
-.DS_store

@@ -94,6 +94,10 @@ gulp.task('bowerBuild', ['bower'], function(){
   browserSync.reload();
 });
 
+gulp.task('htmlBuild', function() {
+    browserSync.reload();
+});
+
 gulp.task('serve', function() {
   browserSync.init({
     server: {

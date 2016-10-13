@@ -1,0 +1,19 @@
+{
+  "name": "weather application",
+  "description": "an application using an API to show weather based on user input location",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/nickh93/ping-pong-node",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "boostrap#^3.3.7",
+    "moment": "^2.15.1"
+  }
+}
